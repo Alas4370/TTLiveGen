@@ -22,6 +22,12 @@ Key Features:
 · CUDA — GPU acceleration
 · TikTok-Live-Connector — fetch TikTok Live comments (or custom scraping solution)
 
+⚙️ Important Reminder
+· You must create your own Hugging Face access token from huggingface.co.
+· After generating the token, add it to a .env file in your project root:
+    HUGGINGFACE_TOKEN=your_hf_token_here
+· Never share your .env file or token publicly.
+· Without a valid token, the application will not be able to download or access certain models.
 
 Optional (depending on model use):
 · Hugging Face Transformers
