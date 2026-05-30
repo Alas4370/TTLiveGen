@@ -16,11 +16,11 @@ Key Features:<br>
 · 🗨️ Instant AI reactions to viewer input<br>
 
 🛠️ Technologies Used<br>
-· Gradio — interactive UI<br>
-· TensorFlow — machine learning framework<br>
-· PyTorch — alternative ML framework for flexible modeling<br>
-· CUDA — GPU acceleration<br>
-· TikTok-Live-Connector — fetch TikTok Live comments (or custom scraping solution)<br>
+· Gradio - interactive UI<br>
+· TensorFlow - machine learning framework<br>
+· PyTorch - alternative ML framework for flexible modeling<br>
+· CUDA - GPU acceleration<br>
+· TikTok-Live-Connector - fetch TikTok Live comments (or custom scraping solution)<br>
 
 ⚙️ Important Reminder<br>
 · You must create your own Hugging Face access token from huggingface.co.<br>
